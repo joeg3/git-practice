@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 goodbye world!
 bye world!
 ..
->>>>>>> 592e755fcb433a3de03ee7b2cfd5b8ca1247aaa7
+
+end
