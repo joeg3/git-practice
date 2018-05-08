@@ -1,5 +1,5 @@
-goodbye world!
-bye world!
+Hi
+bye, world!
 ..
 
 end
