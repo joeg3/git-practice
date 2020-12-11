@@ -1,7 +1,1 @@
-Changed added for C2
-<<<<<<< HEAD
-Change added for C3
-Change added for C4
-
-=======
->>>>>>> parent of 74e2391... C3
+C7
