@@ -1,4 +1,3 @@
-C-A
 
 newHi
 bye, world!
