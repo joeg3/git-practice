@@ -1,4 +1,5 @@
-abc
+Update from local branch lb
+`abc
 Another file here!
 
 branch joeg3fix6
