@@ -5,3 +5,5 @@ new change on master
 new change on upstream master
 
 second change on upstream master
+
+third change on c.txt on upstream master
