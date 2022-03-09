@@ -8,3 +8,5 @@ update
 update b.txt on upstream branch rb
 
 second update b.txt on upstream branch rb
+
+third update b.txt on upstream branch rb
