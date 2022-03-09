@@ -6,3 +6,5 @@ branch joeg3fix6
 update
 
 update b.txt on upstream branch rb
+
+second update b.txt on upstream branch rb
