@@ -1,12 +1,9 @@
+Update from branch my_branch!
 Update from local branch lb
 `abc
 Another file here!
 
 branch joeg3fix6
-update
 
-update b.txt on upstream branch rb
+abc
 
-second update b.txt on upstream branch rb
-
-third update b.txt on upstream branch rb
