@@ -1,6 +1,6 @@
 new file to practice on
 
-new change on master
+another new change on master
 
 new change on upstream master
 
