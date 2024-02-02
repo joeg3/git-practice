@@ -1,9 +1,5 @@
-L3
-update rb on github
-update from rb
-newHi
-bye, world!
-2...
-this change made by joeg3fix6
-end
-update on master
+- red
+- blue
+- green
+- purple
+- orange
